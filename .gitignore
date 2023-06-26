@@ -1,0 +1,11 @@
+
+# Pastas
+/ajustados_2022
+/ambientevirtual
+/venv
+
+# Arquivos
+infrações_2022.zip
+Banco_Dados.db
+Base_Consolidada.csv
+Base_Consolidada.parquet
